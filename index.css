@@ -1,16 +1,16 @@
 body {
-    background-color: lightcyan;
+    background-color: white;
   }
   
   h1 {
-    color: blue;
+    color: red;
     border: 10px solid black;
   }
 
   h2 {
-    color: blue;
+    color: red;
   }
 
   p {
-    color: blue;
+    color: red;
   }
