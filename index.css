@@ -1,7 +1,10 @@
-body {
+  body {
     background-color: white;
+    border-style: dashed;
+    border-width: 20px;
+
   }
-  
+
   h1 {
     color: black;
     border: 10px solid black;
