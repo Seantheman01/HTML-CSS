@@ -11,17 +11,24 @@
   }
 
   h2 {
-    color: orange;
+    color: black;
   }
 
   p {
-    color: yellow;
+    color: black;
   }
 
-  a {
-    color: blue;
+  a {    
+    color: black;
+  }
+  a:hover {
+    color:blue
+  }
+  a:active {
+    color:yellow
   }
 
   h3 {
-    color: green;
+    color: black;
+    padding-top: 50px;
   }
