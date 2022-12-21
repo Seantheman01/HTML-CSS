@@ -1,28 +1,27 @@
   body {
-    background-color: white;
+    background-color: lightseagreen;
     border-style: dashed;
     border-width: 20px;
     border-color: red;
-
   }
 
   h1 {
-    color: black;
+    color: red;
     border: 10px solid black;
   }
 
   h2 {
-    color: black;
+    color: orange;
   }
 
   p {
-    color: black;
+    color: yellow;
   }
 
   a {
-    color: black;
+    color: blue;
   }
 
   h3 {
-    color: black;
+    color: green;
   }
