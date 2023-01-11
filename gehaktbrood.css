@@ -1,6 +1,5 @@
 body {
 font-family: 'Roboto', sans-serif;
-
 }
 
 .MijnDiv {
@@ -11,9 +10,17 @@ font-family: 'Roboto', sans-serif;
 }
 
 p {
-   size: 20px;
+   font-size: 20px;
 }
 
 li {
-    size: 20px;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 32px;
 }
