@@ -1,16 +1,9 @@
   body {
     background-color: lightseagreen;
-    border-style: dashed;
-    border-width: 20px;
-    border-color: red;
   }
 
   h1 {
     color: blue
-  }
-
-  h2 {
-    color: black;
   }
 
   p {
@@ -20,14 +13,11 @@
   a {    
     color: black;
   }
+
   a:hover {
     color:blue
   }
+  
   a:active {
     color:yellow
-  }
-
-  h3 {
-    color: black;
-    padding-top: 50px;
   }
