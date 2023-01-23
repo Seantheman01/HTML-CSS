@@ -3,15 +3,15 @@ body {
 }
 
 h1 {
-  color: brown;
+  color: white;
 }
 
 p {
-  color: brown;
+  color: white;
 }
 
 a {    
-  color: brown;
+  color: white;
 }
 
 a:hover {
@@ -23,5 +23,5 @@ a:active {
 }
 
 .DivLinks {
-  color: brown;
+  color: white;
 }
