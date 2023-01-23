@@ -1,0 +1,9 @@
+body {
+    width: 200px;
+    height: 300px;
+
+    padding: 40px;
+    margin: 40px;
+    border: red dashed 20px;
+
+}
