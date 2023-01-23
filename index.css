@@ -1,23 +1,27 @@
-  body {
-    background-color: lightseagreen;
-  }
+body {
+    background-image: url('fotos/strepen.jpg');
+}
 
-  h1 {
-    color: red
-  }
+h1 {
+  color: brown
+}
 
-  p {
-    color: black;
-  }
+p {
+  color: brown;
+}
 
-  a {    
-    color: black;
-  }
+a {    
+  color: brown;
+}
 
-  a:hover {
-    color:blue
-  }
+a:hover {
+  color:blue
+}
 
-  a:active {
-    color:yellow
-  }
+a:active {
+  color:yellow
+}
+
+.DivLinks {
+color: brown;
+}
