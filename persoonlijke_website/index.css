@@ -3,15 +3,15 @@ body {
 }
 
 h1 {
-  color: teal;
+  color: darkcyan;
 }
 
 p {
-  color: teal;
+  color: darkcyan;
 }
 
 a {    
-  color: teal;
+  color: darkcyan;
 }
 
 a:hover {
@@ -23,5 +23,5 @@ a:active {
 }
 
 .DivLinks {
-  color: teal;
+  color: darkcyan;
 }
