@@ -2,6 +2,13 @@ body {
   background-image: url("fotos/achtergrond.webp");
 }
 
+.DivLettertype {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+
 h1 {
   color: darkcyan;
 }
