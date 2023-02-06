@@ -2,6 +2,9 @@ h1 {
     color: blue;
 }
 
-.DivLettertype {
+h2 {
     color: red;
+}
+.DivLettertype {
+    font-family: verdana;
 }
