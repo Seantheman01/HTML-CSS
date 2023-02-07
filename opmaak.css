@@ -4,6 +4,7 @@ h1 {
 
 .DivLettertype1 {
     font-family: verdana;
+    background-color: aqua;
 }
 
 .DivLettertype2 {
@@ -11,9 +12,18 @@ h1 {
 }
 
 .DivKleur1 {
-    color: red
+    color: red;
 }
 
 .DivKleur2 {
     color: green;
+    background-color: darkkhaki
+}
+
+.DivBackground1 {
+    background-color: aqua;
+}
+
+.DivBackground2 {
+    background-color: darkkhaki;
 }
