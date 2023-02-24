@@ -1,5 +1,6 @@
 body {
   background-image: url("fotos/achtergrond.webp");
+  color: darkcyan;
 }
 
 .DivLettertype {
@@ -8,15 +9,6 @@ body {
   margin-left: 0 auto;
   margin-right: 0 auto;
 }
-
-h1 {
-  color: darkcyan;
-}
-
-p {
-  color: darkcyan;
-}
-
 a {    
   color: darkcyan;
 }
@@ -27,8 +19,4 @@ a:hover {
 
 a:active {
   color:yellow;
-}
-
-.DivLinks {
-  color: darkcyan;
 }
