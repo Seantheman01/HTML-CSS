@@ -1,0 +1,22 @@
+body {
+  background-image: url("fotos/achtergrond.webp");
+  color: darkcyan;
+}
+
+.DivLettertype {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+}
+a {    
+  color: darkcyan;
+}
+
+a:hover {
+  color:blue;
+}
+
+a:active {
+  color:yellow;
+}
